@@ -1,9 +1,5 @@
 
-  # Team Portfolio Website
 
-  This is a code bundle for Team Portfolio Website. The original project is available at https://www.figma.com/design/vM4LlUQbXeErQlyCRiCzsK/Team-Portfolio-Website.
-
-  ## Running the code
 
   Run `npm i` to install the dependencies.
 
